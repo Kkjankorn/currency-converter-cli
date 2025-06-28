@@ -20,6 +20,6 @@ cd currency-converter-cli
 npm install
 ```
 
-# ไฟล์ .env.example (แจกไว้ใน GitHub)
+# ไฟล์ .env.example (คีย์จากเว็บ https://exchangerate.host)
 
 EXCHANGE_API_KEY=your_api_key_here
