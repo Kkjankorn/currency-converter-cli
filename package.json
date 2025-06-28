@@ -1,0 +1,26 @@
+{
+  "name": "currency-converter-cli",
+  "version": "1.0.0",
+  "description": "CLI app for currency conversion using TypeScript",
+  "main": "src/App.ts",
+  "scripts": {
+    "start": "ts-node src/App.ts"
+  },
+  "keywords": [
+    "typescript",
+    "cli",
+    "currency",
+    "converter"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.2.5",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "dotenv": "^17.0.0"
+  }
+}
